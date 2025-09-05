@@ -1,7 +1,7 @@
 # 💫 Olá, eu sou Gabriel Duarte!
 Este é meu repositório de apresentação!  
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>

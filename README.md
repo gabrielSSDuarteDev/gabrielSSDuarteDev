@@ -1,10 +1,21 @@
 # 💫 Olá, eu sou Gabriel Duarte!
 Este é meu repositório de apresentação!  
-Sou desenvolvedor sempre buscando aprender e compartilhar conhecimento.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >              
+</div>
+
+
 ## Sobre mim
-
 - 💻 **Desenvolvedor Front End**
 - 🎓 Atualmente cursando Engenharia de Software na Universidade do Distrito Federal (UDF)
 - ⏳ Tenho 9 meses de estudos em programação front end e ciência de dados
@@ -12,24 +23,10 @@ Sou desenvolvedor sempre buscando aprender e compartilhar conhecimento.
 - 📝 Conhecimentos em linguagens: JavaScript, SQL, HTML5, CSS3, Linguagem C
 - ⚡ Já desenvolvo projetos utilizando React e TypeScript, mas continuo me aprofundando nessas tecnologias!
 
-## Projetos
 
-Aqui você pode conferir alguns dos meus projetos:
+## Contate-Me
 
-- [Meus repositórios no GitHub](https://github.com/gabrielSSDuarteDev?tab=repositories)
-- (Adicione aqui projetos específicos e breves descrições, se desejar)
-
-## Disponibilidade
-
-Estou disponível para oportunidades de empregabilidade e para colaborar no desenvolvimento de novos projetos!  
-Se tiver interesse em trabalhar comigo ou desenvolver algo inovador, entre em contato!
-
-## Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-duarte-a16820374/)
-- [Email](mailto:gabrielssduarte.dev@gmail.com)
-- 📱 Telefone: 61 9 9118-8466
-
----
-
-## Temos sempre de buscar ser melhores da forma que pudermos! 💪
+<div>
+   <a href = "mailto:gabrielssduarte.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="(https://www.linkedin.com/in/gabriel-duarte-a16820374/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>

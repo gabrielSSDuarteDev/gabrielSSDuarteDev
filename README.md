@@ -10,7 +10,8 @@ Sou um entusiasta de tecnologia focado em construir soluções eficientes e esca
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut&theme=tokyonight&hide=html,css"/>
 </div>
 
 ---

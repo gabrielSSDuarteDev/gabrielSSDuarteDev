@@ -43,13 +43,11 @@ Meu objetivo é unir a complexidade do Back-end com a fluidez do Front-end para 
 
 ### 📫 Contate-Me
 
-<div align="left">
- <a href="mailto:gabrielssduarte.dev@gmail.com">
+<a href="mailto:gabrielssduarte.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-  <a href="https://www.linkedin.com/in/gabrielssdurtedev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gabriel-duarte-a16820374/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---

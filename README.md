@@ -1,56 +1,45 @@
 # 💫 Olá, eu sou Gabriel Duarte!
 
-### 🚀 Desenvolvedor Full Stack | Engenharia de Software @ UDF
+### 🚀 Engenheiro de Software em Formação | Full Stack Java & React
 
-Sou um entusiasta de tecnologia focado em construir soluções eficientes e escaláveis. Atualmente, dedico-me ao desenvolvimento Full Stack, unindo a robustez do **Java/Spring Boot** à agilidade do **React**. Busco constantemente a excelência técnica através de projetos práticos e formação acadêmica rigorosa.
+Desenvolvedor focado em construir soluções robustas, escaláveis e com alta performance. Atualmente curso o 3º semestre de **Engenharia de Software na UDF** e estou imerso no ecossistema **Java** através do rigoroso programa da **University of Helsinki**. 
+
+Meu objetivo é unir a complexidade do Back-end com a fluidez do Front-end para entregar produtos que resolvam problemas reais de negócio.
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Performance & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Back-end**
-<div style="display: inline_block">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabriel-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-<br />
-
-**Front-end**
-<div style="display: inline_block">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut&theme=radical&hide=html,css&cache_seconds=1800"/>
+</div>>
 
 ---
 
 ### 📝 Sobre Mim
 
-- 🎓 Graduando em **Engenharia de Software** pela Universidade do Distrito Federal (UDF).
-- 🏆 Atualmente focado no programa de **Java Programming** da Universidade de Helsinki (MOOC.fi).
-- ⚙️ Experiência com Git, GitHub, Metodologias Ágeis e Bancos de Dados Relacionais.
-- 🌍 Fluente em Português e Inglês, com visão voltada para soluções globais.
+- 🎓 **Educação:** Graduando em Engenharia de Software (UDF).
+- 🏆 **Especialização:** Java Programming I & II pela University of Helsinki (MOOC.fi).
+- ⚙️ **Stack Principal:** Java, Spring Boot, React 19, TypeScript e SQL (PostgreSQL/MySQL).
+- 🔐 **Diferenciais:** Foco em arquitetura de APIs RESTful, Segurança da Informação (Spring Security) e Clean Code.
+- 🌍 **Idiomas:** Português (Nativo) e Inglês (Avançado).
 
 ---
 
-### 📫 Contate-Me
+### 🛠️ Tecnologias de Domínio
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Back-end** | Java, Spring Boot, Node.js, PHP, Spring Security (JWT) |
+| **Front-end** | React 19, TypeScript, JavaScript, Tailwind CSS v4, Vite |
+| **Banco de Dados** | PostgreSQL, MySQL, Flyway (Migration) |
+| **Ferramentas** | Git, GitHub, ESLint, Postman, VS Code |
+
+---
+
+### 📫 Vamos nos conectar?
 
 <div align="left">
   <a href="mailto:gabrielssduarte.dev@gmail.com">
@@ -62,4 +51,3 @@ Sou um entusiasta de tecnologia focado em construir soluções eficientes e esca
 </div>
 
 ---
-*“A melhor forma de prever o futuro é inventá-lo através do código.”*

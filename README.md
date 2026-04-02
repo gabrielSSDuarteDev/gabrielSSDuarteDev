@@ -47,7 +47,7 @@ Meu objetivo é unir a complexidade do Back-end com a fluidez do Front-end para 
   <a href="mailto:gabrielssduarte.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-duarte-a16820374/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielssdurtedev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>

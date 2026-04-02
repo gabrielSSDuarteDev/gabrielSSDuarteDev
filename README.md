@@ -18,9 +18,6 @@ Meu objetivo é unir a complexidade do Back-end com a fluidez do Front-end para 
 
 <br />
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
 ---
 
 ### 📝 Sobre Mim
@@ -44,7 +41,7 @@ Meu objetivo é unir a complexidade do Back-end com a fluidez do Front-end para 
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Contate-Me
 
 <div align="left">
   <a href="mailto:gabrielssduarte.dev@gmail.com">

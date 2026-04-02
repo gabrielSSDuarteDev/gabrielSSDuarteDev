@@ -8,14 +8,19 @@ Meu objetivo é unir a complexidade do Back-end com a fluidez do Front-end para 
 
 ---
 
-### 📊 Performance & Atividade
+### 📊 Performance & Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSSDuarteDev&layout=donut&theme=radical&hide=html,css&cache_seconds=1800"/>
-</div>>
+  <img src="https://img.shields.io/badge/Main_Stack-Java_%26_React-orange?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Current_Focus-Spring_Boot-green?style=for-the-badge&logo=springboot">
+  <img src="https://img.shields.io/badge/Education-Software_Engineering-blue?style=for-the-badge&logo=google-scholar">
+</div>
 
+<br />
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielSSDuarteDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 ---
 
 ### 📝 Sobre Mim
